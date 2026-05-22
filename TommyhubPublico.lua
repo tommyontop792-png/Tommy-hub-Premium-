@@ -174,10 +174,11 @@ local function createTab(name, page)
 end
 
 -- PESTAÑAS
-createTab("⚔️ Combate", combatPage)
-createTab("🏃 Mov", movePage)
-createTab("🌊 sea 2", sea2Page)
-createTab("🏰 sea 3", sea3Page)
+createTab("👑 Combate", combatPage)
+createTab("☄️ Mov", movePage)
+createTab("🍕 sea 2", sea2Page)
+createTab("🧩 sea 3", sea3Page)
+createTab("🐦‍🔥Tracker", Tracker)
 
 showPage(combatPage)
 
